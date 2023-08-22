@@ -38,7 +38,7 @@ def int_list_please() -> list:
 
 def string_list_please() -> list:
     """Returns a list of strings, any string are fine."""
-    return ("String","List","Please")
+    return ("String","List","Pleaggse")
 
 
 def dictionary_please() -> dict:

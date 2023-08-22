@@ -2,4 +2,4 @@
 
 TODO: write a python script that prints "Hello world!"
 """
-print("HELLO WORLD")
+print("Hello world!")
